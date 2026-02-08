@@ -1,0 +1,8 @@
+Metrica;Valore_Teorico;Valore_Simulato;Intervallo_Confidenza;Esito
+Utilizzazione Edge;0.756;0.75591;0.000449;OK
+Utilizzazione Cloud;0.448;0.448497;0.000582;OK
+Utenti Medi Edge;3.098361;3.090084;0.011534;OK
+Utenti Medi Cloud;0.811594;0.813422;0.002116;OK
+RT Classe E (Total);2.04918;2.042337;0.007276;OK
+RT Classe C (Total);3.908292;3.90277;0.010124;OK
+RT Sistema;2.792825;2.78651;0.008162;OK

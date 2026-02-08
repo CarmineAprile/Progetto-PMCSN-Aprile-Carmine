@@ -1,0 +1,25 @@
+Scenario;Metrica;Media;Errore_HW
+Upgrade 0%;RT_Edge;27.8828;1.7223
+Upgrade 0%;RT_Cloud;35.3468;2.0592
+Upgrade 0%;Util_Edge;0.982;0.0007
+Upgrade 0%;Util_Cloud;0.5818;0.0006
+Upgrade 0%;Utenti_Edge;54.8598;3.4201
+Upgrade 0%;Utenti_Cloud;1.39;0.0043
+Upgrade 10%;RT_Edge;3.8767;0.0312
+Upgrade 10%;RT_Cloud;6.5628;0.0382
+Upgrade 10%;Util_Edge;0.884;0.0006
+Upgrade 10%;Util_Cloud;0.5822;0.0007
+Upgrade 10%;Utenti_Edge;7.6203;0.0626
+Upgrade 10%;Utenti_Cloud;1.3908;0.0047
+Upgrade 20%;RT_Edge;1.8787;0.008
+Upgrade 20%;RT_Cloud;4.1724;0.0121
+Upgrade 20%;Util_Edge;0.7863;0.0005
+Upgrade 20%;Util_Cloud;0.5828;0.0006
+Upgrade 20%;Utenti_Edge;3.6925;0.0162
+Upgrade 20%;Utenti_Cloud;1.3985;0.0046
+Upgrade 30%;RT_Edge;1.1231;0.003
+Upgrade 30%;RT_Cloud;3.2643;0.0071
+Upgrade 30%;Util_Edge;0.6882;0.0005
+Upgrade 30%;Util_Cloud;0.5827;0.0006
+Upgrade 30%;Utenti_Edge;2.2081;0.0065
+Upgrade 30%;Utenti_Cloud;1.3951;0.0044

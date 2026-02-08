@@ -1,0 +1,7 @@
+Scenario;Metrica;Media;Errore_HW
+Base;RT_Edge;2.0377;0.0093
+Base;RT_Cloud;3.9005;0.0123
+Base;Util_Edge;0.7558;0.0006
+Base;Util_Cloud;0.4478;0.0006
+Base;Utenti_Edge;3.0844;0.0148
+Base;Utenti_Cloud;0.8114;0.0023
